@@ -1,5 +1,5 @@
 ## Development
-- [British Themed FiveM (XRP/XTRA)](https://discord.gg/8fmVsuSNRD) *(Semi-roleplay FiveM Server)*
+- [XTRA Roleplay] (XRP/XTRA)](https://discord.gg/8fmVsuSNRD) *(Semi-roleplay FiveM Server)*
 
 ## Languages
 <img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Logo">
