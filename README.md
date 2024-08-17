@@ -1,6 +1,12 @@
+## Eluxbar Info
+- slothid
+- 17
+- UK
+- Developer
+   
 ## Development
-- [XTRA Roleplay] (XRP/XTRA)](https://discord.gg/8fmVsuSNRD) *(Semi-roleplay FiveM Server)*
+- [XTRA Roleplay] (XRP/XTRA)](https://discord.gg/xtra5m) *(Semi-roleplay FiveM Server)*
+- [XCEL Roleplay] (XRP/XCEL)](https://discord.gg/xcel5m) *(Semi-roleplay FiveM Server)*
 
-## Languages
-<img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Logo">
-<img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS Logo">
+## Stats
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eluxbar&theme=transparent" alt="GitHub Streak" /></a>
