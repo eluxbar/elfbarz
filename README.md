@@ -9,4 +9,4 @@
 - [XCEL Roleplay] (XRP/XCEL)](https://discord.gg/xcel5m) *(Semi-roleplay FiveM Server)*
 
 ## Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eluxbar&theme=transparent" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=eluxbar&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
