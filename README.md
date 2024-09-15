@@ -3,7 +3,7 @@
 - Cory
 - 17
 - United Kingdom
-- freelance developer in multiple languages
+- Freelance Developer In Multiple Languages
 
 
 <h2 align="center">langs</h2>
