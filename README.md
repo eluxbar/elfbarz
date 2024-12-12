@@ -1,6 +1,6 @@
 <div align="left">
 
-# Slothid
+# slothid
 
 ## Language's
 
